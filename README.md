@@ -1,2 +1,2 @@
 # GitHub_Tutorial_GITAM
-GitHub Tutorial by Dr. Anil Kumar Gundu and Mr. Ladi Sandeep
+GitHub- Basics, A Tutorial by Dr. Anil Kumar Gundu and Mr. Ladi Sandeep
